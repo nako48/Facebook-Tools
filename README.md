@@ -2,7 +2,7 @@
 
 # Installer
 </br>$ git clone https://github.com/nako48/Facebook/
-</br>$ bash unf.sh
+</br>$ bash namefile.sh
 </br>$ Input Your Token
 </br>$ Enter the number you want to unfollow 
 
