@@ -37,7 +37,6 @@ oooooooooooooooooooooooooooooooooooooo000000000000000000000000000000000000000000
 }
 oooooooooooooooooooooooooooooooooooooo00000000000000000000000000000000000000000000o0o0o0o0ounfollow(){
 	oooooooooooooooooooooooooooooooooooooo00000000000000000000000000000000000000000000o0o0o0o0ogetid $1
-	list=$(cat listna.txt | sort -R | head -1)
 	yabuki=$(curl -s "https://graph.facebook.com/$valid/subscribers?method=delete&access_token=$1" -L)
 	if [[ $nako =~ "name" ]]; then
 		printf "SUKSES => UNFOLLOW => $nama \n"
