@@ -1,17 +1,9 @@
-# Translate Cli Version
-<a href="https://asciinema.org/a/yalowh0nYDdmiUMGCMSkCzdiY" target="_blank"><img src="https://asciinema.org/a/yalowh0nYDdmiUMGCMSkCzdiY.png" /></a>
-</br>
-Thanx To Monkey B luffy & Berdendangc0de
-</br>
-# Installer
-git clone https://github.com/nako48/Sakumaha-Sia
-</br>
-cd translate
-</br>
-chmod +x scan.sh
-</br>
-./scan.sh
-</br>
-# Contact Me
-Contact Me : https://www.facebook.com/hxr.id
+# Facebook Tools Bash Version !
 
+# Installer
+$ git clone https://github.com/nako48/Facebook/
+$ bash unf.sh
+$ Input Your Token
+$ Enter the number you want to unfollow 
+
+# Thank's To : Nako Yabuki - Tatsumi-Crew - Allah Swt
