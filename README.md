@@ -1,10 +1,10 @@
 # Facebook Tools Bash Version !
 
-# Installer
+Installer :
 </br>$ git clone https://github.com/nako48/Facebook/
 </br>$ bash namefile.sh
 </br>$ Input Your Token
 </br>$ Enter the number you want to unfollow 
 
-# Support By :
+Support By :
 </br>Nako Yabuki - Tatsumi-Crew - Allah Swt
